@@ -7,7 +7,7 @@
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/FT3006-OOP/OOP-TI3D?style=flat-square"></a>
 </p>
 
-#### Selasa, 🕐 11:20 s.d 14:40
+#### Senin, 🕐 10:30 s.d 13:50
 
 ## Alur Pengumpulan Tugas ke Repositori Ini
 
