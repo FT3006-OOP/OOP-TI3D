@@ -3,7 +3,7 @@ class Hero:
 
 hero1 = Hero()
 hero2 = Hero()
-hero3 = Hero();
+hero3 = Hero()
 
 hero1.name = "Sniper"
 hero1.health = 100
