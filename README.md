@@ -76,39 +76,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="#"><img src="https://avatars0.githubusercontent.com/u/34052001?s=460&v=4" width="100px;"
         alt="" /><br /><sub><b>Yanyan Sofiyan, M.Kom</b></sub></a><br /><a href="https://github.com/yysofiyan" title="Link Repo">🔗</a> <a
-        href="#" title="Documentation">📖</a><a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#"
-        title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846" width="100px;"
-        alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="" title="Link Repo">🔗</a> <a href="#"
-        title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a
-        href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-    <td align="center"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-
-  </tr>
-  <!-- Baris Ke 2 Max 4 user-->
-  <!-- isi profile akun github anda di bawah ini -->
-
-  </tr>
-  <tr>
-    <!-- Baris 2 Max 4 user-->
-   <td align="center"><a href="#"><img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-      width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#" title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td>
-  </tr>
-    <tr>
-    <!-- Baris ke 3 Max 4 user -->
-    
- <td align="center"><a href="#"><img
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR37MOlMa_TqmLOGCLN7Mlzi4Z_0Fskv4vQqSdUKITUki-it0Zh8RZF8QABe-8iN3t0rMB9C8BmO8epSecvgRlOihFOUGcY21hZAQ&usqp=CAU&ec=45702846"
-        width="100px;" alt="" /><br /><sub><b>NAMA LENGKAP</b></sub></a><br /><a href="#"
-        title="Link Repo">🔗</a> <a href="#" title="Documentation">📖</a> <a href="#" title="Profile">👀</a> <a href="#"
-        title="Talks">📢</a></td>
-
+        href="#" title="Documentation">📖</a><a href="#" title="Profile">👀</a> <a href="#" title="Talks">📢</a></td><td align="center"><a href="https://github.com/FT3006-OOP/OOP-TI3D/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=FT3006-OOP/OOP-TI3D"/></a>
   </tr>
 </table>
 
