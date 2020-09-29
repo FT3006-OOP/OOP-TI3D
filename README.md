@@ -1,7 +1,7 @@
  # Repositori Praktikum Pemrograman Berorientasi Objek
 
 <p align="left">
-<a href="#"><img src="http://hits.dwyl.com/FT3006-OOP/OOP-TI3D.svg"></a>
+<a href="#"><img src="http://hits.dwyl.com/yysofiyan/FT3006-OOP/OOP-TI3D.svg"></a>
 <a href="#"><img src="https://img.shields.io/github/issues-pr/FT3006-OOP/OOP-TI3D?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/repo-size/FT3006-OOP/OOP-TI3D?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/FT3006-OOP/OOP-TI3D?style=flat-square"></a>
