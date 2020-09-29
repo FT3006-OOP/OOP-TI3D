@@ -82,7 +82,6 @@ Contoh struktur direktori sebagai *berikut:*
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
----
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/github/forks/FT3006-OOP/OOP-TI3D?label=fork&style=social"alt="Fork"></a>
