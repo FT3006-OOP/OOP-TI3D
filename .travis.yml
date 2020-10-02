@@ -2,6 +2,8 @@ language: python
 python:
   - "3.7"
   - "3.8"
+# Dev
+install: pip install --user -r requirements.txt
 # command to run tests
 script: 
 - pytest
