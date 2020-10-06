@@ -7,10 +7,10 @@ hero2 = Hero()
 hero3 = Hero()
 
 hero1.name="Axe"
-hero1.health=2000
+hero1.health=100
 
 hero2.name="Antimage"
-hero2.health=500
+hero2.health=200
 
 hero3.name="Udin"
 hero3.health=99999
