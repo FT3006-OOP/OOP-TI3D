@@ -1,4 +1,4 @@
-class hero: # template
+class Hero: # template
     pass
 
 

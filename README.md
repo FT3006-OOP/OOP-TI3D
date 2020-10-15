@@ -5,6 +5,7 @@
 <a href="#"><img src="https://img.shields.io/github/issues-pr/FT3006-OOP/OOP-TI3D?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/repo-size/FT3006-OOP/OOP-TI3D?style=flat-square"></a>
 <a href="#"><img src="https://img.shields.io/github/commit-activity/w/FT3006-OOP/OOP-TI3D?style=flat-square"></a>
+<a href="#"><img src="https://travis-ci.com/FT3006-OOP/OOP-TI3D.svg?branch=master"></a>
 </p>
 
 #### Senin, 🕐 10:30 s.d 13:50
