@@ -1,5 +1,5 @@
 class Hero:
-    # class variabel
+    #class variabel
     jumlah_hero = 0
 
     def __init__(self, inputName, inputHealth, inputPower, inputArmor):
@@ -9,16 +9,16 @@ class Hero:
         self.power = inputPower
         self.armor = inputArmor
         Hero.jumlah_hero += 1
-    
+
     # void function, method tanpa return
     def siapa(self):
         print("namaku adalah " + self.name)
-
-    # method dengan argumen
+        
+    #method dengan argumen
     def healthUp(self,up):
         self.health += up
-    
-    #method dengan return
+
+    # method dengan return
     def getHealth(self):
         return self.health
 
