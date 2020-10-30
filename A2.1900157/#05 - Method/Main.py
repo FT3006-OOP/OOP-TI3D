@@ -13,6 +13,7 @@ class Hero:
     # void function, method tanpa return
     def siapa(self):
         print("namaku adalah " + self.name)
+        
     # method dengan argumen
     def healthUp(self,up):
         self.health += up
