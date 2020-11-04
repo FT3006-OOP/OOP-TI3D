@@ -1,21 +1,21 @@
-class Hero:
+class Hero :
 
-    # class variabel
+    # class variable
     jumlah = 0
     __privateJumlah = 0
 
     def __init__(self,name,health):
         self.name = name
         self.health = health
-        
-        # variabel instance private
+
+        # variable instance private
         self.__private = "private"
-        # variabel instance protected
-        self.__protected = "protected"
+        # variable instance protected
+        self._protected = "protected"
 
 
 
-lina = Hero("lina",100)
+lina = Hero("lina", 100)
 
 print(lina.__dict__)
 print(Hero.__dict__)
