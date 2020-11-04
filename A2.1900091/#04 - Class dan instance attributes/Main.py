@@ -18,3 +18,4 @@ hero2 = Hero("mirana", 100, 15,1)
 print(Hero.jumlah)
 Hero3 = Hero("ucup", 1000, 100, 0)
 
+
