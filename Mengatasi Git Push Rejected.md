@@ -1,6 +1,6 @@
 ### Mengatasi Git Push Rejected
 
-![snapshoot](snapshoot/img/Mengatasi-Git-Push-Rejected.jpeg)
+![snapshoot](https://i.ibb.co/7j3j8kJ/Mengatasi-Git-Push-Rejected.jpg)
 
 
 Saya ingin melakukan Push ke repository GitHub dari repository lokal saya tapi mendapatkan pesan seperti berikut: 😱
