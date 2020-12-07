@@ -5,7 +5,7 @@ angka_saya = 1945
 # setelah didefinisikan dan diberi nilai
 # kita bisa mengubah nilainya
 
-angka_saya = 
+angka_saya =
 
 # Untuk melihat kalau kita telah mengubahnya,
 # kita akan mencetaknya dengan print

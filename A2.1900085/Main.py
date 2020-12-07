@@ -1,20 +1,44 @@
-class Hero: # template
-    pass
+class Hero:
 
+    def __init__(self, name, health, armor):
+        self.name = name
+        self.__health = health
+        self.__armor = armor
+#self.info = "name {} : \n\thealth: {}".format(self.name,self.__health)
 
-hero1 = Hero() # object / instance (instansiate)
-hero2 = Hero()
-hero3 = Hero()
+    @property
+    def info(self):
+        return "name {} : \n\thealth: {}".format(self.name,self.__health)
 
-hero1.name = "sniper"
-hero1.health = 100
+    @property
+    def armor(self):
+        pass
 
-hero2.name = "sven"
-hero2.health = 200
+    @armor.getter
+    def armor(self):
+        return self.__armor
 
-hero3.name = "ucup"
-hero3.health = 1000
+    @armor.setter
+    def armor(self, input):
+        self.__armor = input
 
-print(hero1)
-print(hero1.__dict__)
-print(hero1.name)
+    @armor.deleter
+    def armor(self):
+        print('armor di delet')
+        self.__armor = None
+
+sniper = Hero('sniper',100,10)
+
+print('merubah info')
+print(sniper.info)
+sniper.name = 'dadang'
+print(sniper.info)
+
+print('getter dan setter untuk __armor:')
+print(sniper.armor)
+sniper.armor = 50
+print(sniper.armor)
+
+print('delete armor')
+del sniper.armor
+print(sniper.__dict__) 
