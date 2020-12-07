@@ -9,4 +9,4 @@ contoh_perusahaan_yang_menggunakan_bahasa_python = "Youtube, Path, CodeSaya, dan
 
 belajar_python_di_codesaya = True
 
-em4gng_seru = "Benar"
+em4ng_seru = "Benar"
