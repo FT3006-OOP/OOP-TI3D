@@ -6,12 +6,12 @@ class Hero:
 
 class Hero_intelligent(Hero):
     pass
-class Hero_strenght(Hero):
+class Hero_strength(Hero):
     pass
 
 lina = Hero('lina',100)
 techies = Hero_intelligent('techies',50)
-axe = Hero_strenght('axe',200)
+axe = Hero_strength('axe',200)
 
 print(lina.name)
 print(techies.name)
