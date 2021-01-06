@@ -1,0 +1,47 @@
+# JAWABAN UAS PEMROGRAMAN BERORIENTASI OBJEK
+
+## IDENTITAS
+
+* NAMA : SEP YUSMAN MAULANA
+* NIM  : A2.190065
+
+## No.1
+
+* Class adalah cetak biru atau *blueprint* dari **object**. Class digunakan hanya untuk membuat kerangka dasar. Yang akan kita pakai nantinya adalah hasil cetakan dari class, yakni **object**.
+
+## No.2
+
+* **Instance** bisa diartikan sebagai wujud dari class. Class berisi definisi variabel dan fungsi yang menggambarkan sebuah objek. Contoh, bayangkan sebuah rumah, didalamnya ada TV, kursi, sofa, dan alat-alat lainnya. Dalam PBO, rumah adalah class, sedangkan TV, kursi, sofa adalah **instance**.
+
+## No.3
+
+* Class adalah kode yang mempunyai behavior atau cetak biru yang digunakan untuk menggambarkan bagaimana membuat sesuatu, instance adalah objek yang dibuat dari cetak biru tersebut.
+
+## No.4
+
+* class PythonclassName:
+
+## No.5
+
+* Ejaan dimulai dengan huruf kapital — yaitu, PythonclassName()
+
+## No.6
+
+* Menggunakan nama class, diikuti dengan tanda kurung.
+* Jika nama classnya Hero(), Maka - my_class = Hero().
+
+## No.7
+
+* Dengan notasi titik — misalnya, *instance_name.attribute_name*
+
+## No.8
+
+* Metode adalah sebuah fungsi yang didefinisikan di dalam class.
+
+## No.9
+
+* Argumen pertama dari setiap metode merujuk pada instance class saat ini, yang menurut konvensi, diberi nama self. Dalam __init__ metode ini, self mengacu pada objek yang baru dibuat sementara dalam metode lain, self mengacu pada contoh yang metode namanya disebut.
+
+## No.10
+
+* __init__ Tujuan dari Metode ini adalah menginisialisasi sebuah instance dari class.
